@@ -1,0 +1,13 @@
+body{
+    font-family: arial, sans-serif;
+    margin: 0;
+}
+
+.position{
+
+    width: 571px;
+    padding: 18px;
+    top: 53px;
+    z-index: 0px;
+
+}
